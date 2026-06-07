@@ -23,7 +23,7 @@ Berikut hasil Repository Praktikum Data Science pertemuan 1-7 saya.
 | 4 | Pertemuan 4 | Statistik Deskriptif & Visualisasi Data | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan4_RIZALDI__250401020121.ipynb) |  
 | 5 | Pertemuan 5 | Dashboard Visualisasi Data | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan5_Rizaldi_250401020121.ipynb) |  
 | 6 | Pertemuan 6 | Processing Data untuk Mechine Learning | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan6_RIZALDI__250401020121.ipynb) |  
-| 7 | Pertemuan 7 | regresi Linear Model ML Pertama | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan7_RIZALDI__250401020121.ipynb) |  
+| 7 | Pertemuan 7 | Regresi Linear Model ML Pertama | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan7_RIZALDI__250401020121.ipynb) |  
 
 ### Tools & Library yang Digunakan  
 | Kategori | Tools & Library |  
