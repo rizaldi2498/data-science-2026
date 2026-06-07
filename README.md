@@ -54,3 +54,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 # Jalankan Jupyter
 jupyter notebook
+
+```
+### Kesimpulan Pelajaran  
+1. 
