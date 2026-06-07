@@ -38,7 +38,7 @@ Berikut hasil Repository Praktikum Data Science pertemuan 1-7 saya.
 
 ### Cara Menjalankan Notebook  
 1. Klik link pada Notebook pada tabel diatas
-2. Di halaman GitHub lalu klik **"Open in Colab"** atau copy url (*colab.research.google.com*)
+2. Di halaman GitHub lalu klik **"Open in Colab"** atau copy url [*colab.research.google.com*](*colab.research.google.com*)
 3. Klik **Runtime > Run All** untuk menjalankan semua sel
 
 ### Via Lokal/ Jupiter Notebook  
