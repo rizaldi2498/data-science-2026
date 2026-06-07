@@ -35,3 +35,22 @@ Berikut hasil Repository Praktikum Data Science pertemuan 1-7 saya.
 | Statistik | SciPy |  
 | Lingkungan | Google Colab |  
 | Version Control | Git & Github |  
+
+### Cara Menjalankan Notebook  
+1. Klik link pada Notebook pada tabel diatas
+2. Di halaman GitHub lalu klik **"Open in Colab"** atau copy url (*colab.research.google.com*)
+3. Klik **Runtime > Run All** untuk menjalankan semua sel
+
+### Via Lokal/ Jupiter Notebook  
+```bash
+# Clone repository ini
+git clone https://github.com/[username]/[nama-repo].git
+
+# Masuk ke folder
+cd [nama-repo]
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
+
+# Jalankan Jupyter
+jupyter notebook
