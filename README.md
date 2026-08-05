@@ -63,6 +63,6 @@ jupyter notebook
 
 ```
 ### Kesimpulan Pelajaran  
-Secara keseluruhan, perjalanan pertemuan 1-13 ini adalah proses belajar yang terstruktur dan bermakna, mulai dari menguasai dasar-dasar Python hingga berhasil membangun model machine learning pertama. Melalui dataset Titanic, pembersihan data yang menuntut ketelitian, hingga seni visualisasi data, perjalanan ini berhasil mengubah cara pandang terhadap data. Kini, data tidak lagi dilihat sebagai sekadar deretan angka yang kaku, melainkan sebuah cerita berharga yang siap dibaca dan diungkap maknanya.  
+Secara keseluruhan, perjalanan pertemuan 1 hingga 13 ini merupakan sebuah proses belajar yang sangat terstruktur, mendalam, dan bermakna. Pembelajaran dirancang secara progresif—mulai dari menguasai fondasi dasar pemrograman Python, mengeksplorasi struktur data, hingga berhasil membangun model machine learning dan kecerdasan buatan yang aplikatif. Secara keseluruhan, rangkaian perjalanan ini telah membekali kompetensi teknis sekaligus pola pikir kritis yang esensial untuk menghadapi tantangan nyata di era transformasi digital.
 
-***Terima Kasih***
+##***Terima Kasih***
