@@ -63,6 +63,6 @@ jupyter notebook
 
 ```
 ### Kesimpulan Pelajaran  
-Secara keseluruhan, perjalanan pertemuan 1 hingga 13 ini merupakan sebuah proses belajar yang sangat terstruktur, mendalam, dan bermakna. Pembelajaran dirancang secara progresif—mulai dari menguasai fondasi dasar pemrograman Python, mengeksplorasi struktur data, hingga berhasil membangun model machine learning dan kecerdasan buatan yang aplikatif. Secara keseluruhan, rangkaian perjalanan ini telah membekali kompetensi teknis sekaligus pola pikir kritis yang esensial untuk menghadapi tantangan nyata di era transformasi digital.
+Secara keseluruhan, perjalanan pertemuan 1 hingga 13 ini merupakan sebuah proses belajar yang sangat terstruktur, mendalam, dan bermakna. Pembelajaran dirancang secara progresif, mulai dari menguasai fondasi dasar pemrograman Python, mengeksplorasi struktur data, hingga berhasil membangun model machine learning dan kecerdasan buatan yang aplikatif. Secara keseluruhan, rangkaian perjalanan ini telah membekali kompetensi teknis sekaligus pola pikir kritis yang esensial untuk menghadapi tantangan nyata di era transformasi digital.
 
 ### ***Terima Kasih***
