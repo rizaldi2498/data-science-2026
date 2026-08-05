@@ -24,6 +24,12 @@ Berikut hasil Repository Praktikum Data Science pertemuan 1-7 saya.
 | 5 | Pertemuan 5 | Dashboard Visualisasi Data | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan5_Rizaldi_250401020121.ipynb) |  
 | 6 | Pertemuan 6 | Processing Data untuk Mechine Learning | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan6_RIZALDI__250401020121.ipynb) |  
 | 7 | Pertemuan 7 | Regresi Linear Model ML Pertama | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan7_RIZALDI__250401020121.ipynb) |  
+| 7 | Pertemuan 9 | Algoritma Klasifikasi Bagian 1 | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan9_Rizaldi_250401020121.ipynb) |  
+| 7 | Pertemuan 10 | Algoritma Klasifikasi Bagian 2 | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan10_Rizaldi_250401020121.ipynb) |  
+| 7 | Pertemuan 11 | Unsupervised Learning Clustering | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan11_Rizaldi_250401020121.ipynb) |  
+| 7 | Pertemuan 12 | Asosiasi Data dan Sistem Rekomendasi | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan12_Rizaldi_250401020121_.ipynb) |  
+| 7 | Pertemuan 13 | Deep Learning dan NLP Dasar | [Buka Link](https://github.com/rizaldi2498/data-science-2026/blob/main/Pertemuan13_Rizaldi_250401020121.ipynb) |  
+
 
 ### Tools & Library yang Digunakan  
 | Kategori | Tools & Library |  
